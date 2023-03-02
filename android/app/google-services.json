@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "727076853720",
+    "project_id": "fire-Social",
+    "storage_bucket": "fire-Social.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727076853720:android:a47a3ff1be0b396bd284ad",
+        "android_client_info": {
+          "package_name": "com.example.fire_Social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727076853720-d5tn99mtgrbdp6ael70t1e4fmcjh2g4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fire_Social",
+            "certificate_hash": "a462de129c2286bc6d01096d6859ae870f5e06d8"
+          }
+        },
+        {
+          "client_id": "727076853720-7vu9ufmq0mqst186n2djtl7piibvouur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBilC40a7qrtw4aG9hmLsFnlFMDySbnEKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727076853720-7vu9ufmq0mqst186n2djtl7piibvouur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
